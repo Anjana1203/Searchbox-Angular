@@ -1,0 +1,301 @@
+[{
+      "cityId": 1,
+      "cityName": "Bombuflat",
+      "stateId": 1,
+     "isActive":true },
+    {
+      "cityId": 2,
+      "cityName": "Garacharma",
+      "stateId": 1,
+     "isActive":true },
+    {
+      "cityId": 3,
+      "cityName": "Pune",
+      "stateId": 1,
+     "isActive":true },
+    {
+      "cityId": 4,
+      "cityName": "Rangat",
+      "stateId": 1,
+     "isActive":true },
+{
+      "cityId": 39,
+      "cityName": "Bengaluru",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 40,
+      "cityName": "Bugganipalle",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 41,
+      "cityName": "Challapalle",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 42,
+      "cityName": "Chennai",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 43,
+      "cityName": "Chatakonda",
+      "stateId": 2,
+     "isActive":true },
+     {
+      "cityId": 90,
+      "cityName": "Guntur",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 91,
+      "cityName": "Gujarat",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 92,
+      "cityName": "Hindupur",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 93,
+      "cityName": "Hukumpeta",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 94,
+      "cityName": "Ichchapuram",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 95,
+      "cityName": "Isnapur",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 96,
+      "cityName": "Jaggayyapeta",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 97,
+      "cityName": "Jallaram Kamanpur",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 98,
+      "cityName": "Jammalamadugu",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 99,
+      "cityName": "Jangampalli",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 100,
+      "cityName": "Jarjapupeta",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 101,
+      "cityName": "Kadiri",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 102,
+      "cityName": "Kaikalur",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 103,
+      "cityName": "Kakinada",
+      "stateId": 2,
+     "isActive":true },
+     {
+      "cityId": 118,
+      "cityName": "Khanapuram Haveli",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 119,
+      "cityName": "Kodar",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 120,
+      "cityName": "Kollapur",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 121,
+      "cityName": "Kondapalem",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 122,
+      "cityName": "Kondapalle",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 123,
+      "cityName": "Kondukur",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 124,
+      "cityName": "Kosgi",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 125,
+      "cityName": "Kothavalasa",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 126,
+      "cityName": "Kottapalli",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 127,
+      "cityName": "Kovur",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 128,
+      "cityName": "Kovurpalle",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 129,
+      "cityName": "Kovvur",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 130,
+      "cityName": "Krishna",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 131,
+      "cityName": "Kuppam",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 132,
+      "cityName": "Kurmannapalem",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 133,
+      "cityName": "Kurnool",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 134,
+      "cityName": "Lakshettipet",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 135,
+      "cityName": "Lalbahadur Nagar",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 136,
+      "cityName": "Machavaram",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 137,
+      "cityName": "Macherla",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 138,
+      "cityName": "Machilipatnam",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 139,
+      "cityName": "Madanapalle",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 140,
+      "cityName": "Mumbai",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 141,
+      "cityName": "Madhuravada",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 142,
+      "cityName": "Madikonda",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 143,
+      "cityName": "Madugule",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 144,
+      "cityName": "Mahabubnagar",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 145,
+      "cityName": "Mahbubabad",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 146,
+      "cityName": "Malkajgiri",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 147,
+      "cityName": "Mamilapalle",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 148,
+      "cityName": "Mancheral",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 149,
+      "cityName": "Mandapeta",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 150,
+      "cityName": "Mandasa",
+      "stateId": 2,
+     "isActive":true },
+     {
+      "cityId": 281,
+      "cityName": "Vepagunta",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 282,
+      "cityName": "Vetapalem",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 283,
+      "cityName": "Vijayapuri",
+      "stateId": 2,
+     "isActive":true },
+    {
+      "cityId": 284,
+      "cityName": "Vijayapuri South",
+      "stateId": 2,
+     "isActive":true }
+   ]
